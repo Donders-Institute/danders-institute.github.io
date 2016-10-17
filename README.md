@@ -1,2 +1,2 @@
-# danders-institute.github.io
+# donders-institute.github.io
 http://donders-institute.github.io/
